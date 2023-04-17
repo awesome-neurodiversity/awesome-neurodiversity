@@ -1,0 +1,55 @@
+name: Suggest a resource
+description: Submit a suggested resource for review by maintainers and community for list inclusion.
+assignees:
+- ajhalili2006
+labels:
+- enhancement
+- documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thank you for submitting your suggested resource into Awesome Neurodiversity!
+
+        This will not only curate this Awesome list better but to help expand resources for the Neurodiversity
+        community, allies and everyone else.
+  - type: input
+    attributes:
+      label: Link to resource
+      description: Please paste the URL where that resource you're suggesting is available over the internet.
+      placeholder: https://web.archive.org/...
+    validations:
+      required: true
+    id: url
+  - type: dropdown
+    attributes:
+      label: Type of resource
+      description: For details on different types as listed below, please see the contributing guidelines within the repository.
+      multiple: true
+      options:
+        - Website / Webpage
+        - Video
+        - Ebook / PDF / Audiobook
+        - Podcast
+        - Online Course
+        - Community
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Availability to public
+      description: Whenever this is available to public without any restrictions or not.
+      multiple: false
+      options:
+        - "Free for all"
+        - "Free for all, but login required"
+        - "Free for all, but protected by DRM"
+        - "Behind gated paywall"
+        - "Requires paid access"
+        - "Behind paywalls/Requires paid access + protected by DRM"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional details
+      description: Help us review this suggestion throughly by providing us some context or even a bit of summary.
