@@ -11,12 +11,19 @@ body:
       value: |
         ## Thank you for submitting your suggested resource into Awesome Neurodiversity!
 
-        This will not only curate this Awesome list better but to help expand resources for the Neurodiversity
-        community, allies and everyone else.
+        This will not only curate this Awesome list better but to help expand resources for the neurodiverse community, allies and everyone else.
+        We'll also share you suggestion to [Public Neurodiversity Support Center](https://coda.io/form/Add-Neurodiversity-Resource_d43-e9BR1p3) on
+        your behalf after approval.
+
+        By submitting this form, you agree that you checked the issue tracker on both GitHub, GitLab and sourcehut for any duplicates, in the project's
+        README if it's included and the [community code of conduct](https://github.com/Community-Lores/awesome-neurodiversity/blob/main/CONTRIBUTING.md)
+
+        ---
   - type: input
     attributes:
       label: Link to resource
-      description: Please paste the URL where that resource you're suggesting is available over the internet.
+      description: |
+        Please paste the URL where that resource you're suggesting is available over the internet. If it's a book, an Amazon URL is fine.
       placeholder: https://web.archive.org/...
     validations:
       required: true
@@ -28,11 +35,14 @@ body:
       multiple: true
       options:
         - Website / Webpage
+        - Blog post
+        - Book / Audiobook
         - Video
-        - Ebook / PDF / Audiobook
         - Podcast
         - Online Course
         - Community
+        - Essay
+        - Social Media Post
     validations:
       required: true
   - type: dropdown
@@ -47,6 +57,39 @@ body:
         - "Behind gated paywall"
         - "Requires paid access"
         - "Behind paywalls/Requires paid access + protected by DRM"
+  - type: dropdown
+    attributes:
+      label: Any content warnings?
+      description: If the content you provided contains parts that might be triggering to some, please label it as such.
+      multiple: true
+      options:
+        - Discrimination (e.g. homophobia, ableism, etc.)
+        - Discussions around mental health and trauma
+        - Abuse (e.g. child/sexual abuse, ABA)
+        - Suicide
+        - Others (note it in additional details)
+        - None of the above
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Which neurotypes does this resource apply to?
+      description: Select all that apply to help with categorization.
+      multiple: true
+      options:
+        - Autism
+        - ADHD
+        - Bipolar
+        - PTSD / CPTSD
+        - Dyslexia
+        - Dyscalculia
+        - Epilepsy
+        - Schizophrenia
+        - OCD
+        - TBI
+        - Tourette Syndorome
+        - Plurality
+        - Misc Neurodivergent
     validations:
       required: true
   - type: textarea

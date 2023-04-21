@@ -1,0 +1,22 @@
+name: Linktr.ee Site Feedback
+description: TBD
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sending website feedback, especially for the awesome list's Linktree page!
+        If you want to submit a resource, use `Suggest a resource` issue template form instead.
+  - type: textarea
+    attributes:
+      label: Tell us about your suggestion/site issue here.
+      description: TBD
+  - type: textarea
+    attributes:
+      label: Browser information
+      description: |
+        This is optional, but in case you're browsing over at our expanded resource hub in the future (<https://neurodiversity.lorebooks.eu.org>)
+      placeholder: |
+        * Browser name and version: Chrome 110
+        * Platform: Android 12

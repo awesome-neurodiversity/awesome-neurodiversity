@@ -1,0 +1,14 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-issue-forms.json": [
+            ".github/ISSUE_TEMPLATES/suggest-resource.yml",
+            ".github/ISSUE_TEMPLATES/website-feedback.yml"
+        ],
+        "https://json.schemastore.org/github-issue-config.json": [
+            ".github/ISSUE_TEMPLATE/config.yml"
+        ]
+    },
+    "git.alwaysSignOff": true,
+    "githubRepositories.experimental.prefetch": true,
+    "githubPullRequests.postCreate": "openOverview"
+}
