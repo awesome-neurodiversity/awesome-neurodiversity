@@ -2,6 +2,7 @@
 
 [![Official project banner for Awesome Neurodiversity](./media/banner.png)](https://github.com/Community-Lores/awesome-neurodviersity)
 
+<!-- markdownlint-disable MD033 MD010 MD042 MD053 -->
 <div align="center">
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
@@ -71,7 +72,7 @@ Treat this as your starter pack/basics on the neurodiversity paradigm + movement
 
 * [**Autism 101: Resources from the Autistic community (from Neuroclastic)**](https://neuroclastic.com/autism-101-resources-from-the-autistic-community/) - An community starter pack on how the Autistic community operates by #ActuallyAutistic individuals themselves.[^1][^2]
 * [**#ActuallyAutistic**](https://autism-advocacy.fandom.com/wiki/ActuallyAutistic) - A hashtag used by the Autistic community, originally in [Tumblr](http://www.tumblr.com/tagged/actuallyautistic) ([alternative tag](http://www.tumblr.com/tagged/actually%20autistic))[^3], but also exists in other platforms like Twitter and DeviantArt.
-- **#AskingAutistics** (also [Ask An Autistic](https://autism-advocacy.fandom.com/wiki/Ask_An_Autistic) YouTube series from the Autistic Self Advocacy Network member and autistic advocate Amythest Schaber + its related hashtag, `#AskAnAutistic`) - If you have an burning question about all things autism and neurodiversity (whenever you're neurotypucal/non-autistic, autistic/neurodivergent yourself or an ally), use the hashtag in your posts.
+* **#AskingAutistics** (also [Ask An Autistic](https://autism-advocacy.fandom.com/wiki/Ask_An_Autistic) YouTube series from the Autistic Self Advocacy Network member and autistic advocate Amythest Schaber + its related hashtag, `#AskAnAutistic`) - If you have an burning question about all things autism and neurodiversity (whenever you're neurotypucal/non-autistic, autistic/neurodivergent yourself or an ally), use the hashtag in your posts.
 * [**r/AutismTranslated**](https://reddit.com/r/autismTranslated) - A subredit founded by the creator of Public Neurodiversity Support Center, based on [a Twitter thread](https://twitter.com/mykola/status/1112883937272107008).
 
 [^1]: Some links might be broken (especially domains and pages that are no longer existent), which we may plan to contact the Neuroclastic editiorial team soon about using `web.archive.org` for these links.
