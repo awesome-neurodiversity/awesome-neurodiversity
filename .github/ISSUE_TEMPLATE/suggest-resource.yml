@@ -31,7 +31,6 @@ body:
   - type: dropdown
     attributes:
       label: Type of resource
-      description: For details on different types as listed below, please see the contributing guidelines within the repository, but they're self-explanatory by the way.
       multiple: true
       options:
         - Website / Webpage
@@ -75,9 +74,10 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: neurotypes
     attributes:
       label: Which neurotypes does this resource apply to?
-      description: Select all that apply to help with categorization.
+      description: Select all that apply to help with categorization and to sort things nicely.
       multiple: true
       options:
         - Autism
@@ -95,6 +95,22 @@ body:
         - Misc Neurodivergent
     validations:
       required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category this fall?
+      description: |
+        If falls under specific neurotypes as answered above, please select "neurotypes".
+      multiple: false
+      options:
+        - primer-on-neurodiversity
+        - neurotypes
+        - community
+        - nonspeakers
+        - science-x-neurodiversity
+        - intersectionality
+        - work
+        - opensource-and-tech
   - type: textarea
     attributes:
       label: Additional details
