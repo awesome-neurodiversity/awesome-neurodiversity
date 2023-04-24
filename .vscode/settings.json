@@ -6,7 +6,8 @@
         ],
         "https://json.schemastore.org/github-issue-config.json": [
             ".github/ISSUE_TEMPLATE/config.yml"
-        ]
+        ],
+        "https://json.schemastore.org/github-funding.json": ".github/funding.yml"
     },
     "git.alwaysSignOff": true,
     "githubRepositories.experimental.prefetch": true,
