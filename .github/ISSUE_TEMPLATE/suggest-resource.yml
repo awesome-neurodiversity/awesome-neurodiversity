@@ -31,7 +31,6 @@ body:
   - type: dropdown
     attributes:
       label: Type of resource
-      description: For details on different types as listed below, please see the contributing guidelines within the repository.
       multiple: true
       options:
         - Website / Webpage
@@ -48,7 +47,7 @@ body:
   - type: dropdown
     attributes:
       label: Availability to public
-      description: Whenever this is available to public without any restrictions or not.
+      description: Whenever this is available to public without any restrictions or not. When unsure, leave anything unticked and we'll note it.
       multiple: false
       options:
         - "Free for all"
@@ -60,7 +59,10 @@ body:
   - type: dropdown
     attributes:
       label: Any content warnings?
-      description: If the content you provided contains parts that might be triggering to some, please label it as such.
+      description: |
+        If the content you provided contains parts that might be triggering to some, please label it as such.
+
+        If chose "None of the above", make sure no other options are ticked.
       multiple: true
       options:
         - Discrimination (e.g. homophobia, ableism, etc.)
@@ -72,9 +74,10 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: neurotypes
     attributes:
       label: Which neurotypes does this resource apply to?
-      description: Select all that apply to help with categorization.
+      description: Select all that apply to help with categorization and to sort things nicely.
       multiple: true
       options:
         - Autism
@@ -92,6 +95,22 @@ body:
         - Misc Neurodivergent
     validations:
       required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category this fall?
+      description: |
+        If falls under specific neurotypes as answered above, please select "neurotypes".
+      multiple: false
+      options:
+        - primer-on-neurodiversity
+        - neurotypes
+        - community
+        - nonspeakers
+        - science-x-neurodiversity
+        - intersectionality
+        - work
+        - opensource-and-tech
   - type: textarea
     attributes:
       label: Additional details

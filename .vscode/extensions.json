@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "davidanson.vscode-markdownlint",
+        "bierner.markdown-emoji",
+        "bierner.markdown-checkbox",
+        "eamodio.gitlens"
+    ]
+}
