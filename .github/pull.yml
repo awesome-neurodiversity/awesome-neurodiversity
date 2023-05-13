@@ -1,0 +1,16 @@
+version: "1"
+rules:
+  - base: main
+    upstream: Community-Lores:main
+    mergeMethod: hardreset
+  - base: Community-Lores:ajhalili2006/main
+    upstream: Community-Lores:main
+    mergeMethod: merge
+  - base: Community-Lores:main
+    upstream: Community-Lores:ajhalili2006/main
+    mergeMethod: merge
+    assignees:
+    - ajhalili2006
+    reviewers:
+    - RecapTimeSquad
+conflictLabel: blocked
