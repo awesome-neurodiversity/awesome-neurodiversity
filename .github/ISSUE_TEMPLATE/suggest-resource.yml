@@ -1,4 +1,4 @@
-name: Suggest a resource
+name: Suggest a neurodiversity-related resource
 description: Submit a suggested resource for review by maintainers and community for list inclusion.
 assignees:
 - ajhalili2006
@@ -11,13 +11,11 @@ body:
       value: |
         ## Thank you for submitting your suggested resource into Awesome Neurodiversity!
 
-        This will not only curate this Awesome list better but to help expand resources for the neurodiverse community, allies and everyone else.
-        We'll also share you suggestion to [Public Neurodiversity Support Center](https://coda.io/form/Add-Neurodiversity-Resource_d43-e9BR1p3) on
-        your behalf after approval.
+        This will not only curate this Awesome list better but to help expand resources for the neurodiverse community, allies and everyone else. We'll also share you suggestion to [Public Neurodiversity Support Center](https://coda.io/form/Add-Neurodiversity-Resource_d43-e9BR1p3) on your behalf after approval.
 
-        By submitting this form, you agree that you checked the issue tracker on both GitHub, GitLab and sourcehut for any duplicates, in the project's
-        README if it's included and the [community code of conduct](https://github.com/Community-Lores/awesome-neurodiversity/blob/main/CONTRIBUTING.md)
+        By submitting this form, you agree that you checked the issue tracker on both GitHub, GitLab and sourcehut for any duplicates, in the project's README if it's included and the [community code of conduct](https://github.com/Community-Lores/awesome-neurodiversity/blob/main/CONTRIBUTING.md)
 
+        If you have some Markdown knowledge, see the contributing guidelines linked above for documentation on how to contribute more directly.
         ---
   - type: input
     attributes:
@@ -66,7 +64,7 @@ body:
       multiple: true
       options:
         - Discrimination (e.g. homophobia, ableism, etc.)
-        - Discussions around mental health and trauma
+        - Mental health issues and trauma
         - Abuse (e.g. child/sexual abuse, ABA)
         - Suicide
         - Others (note it in additional details)
@@ -77,7 +75,10 @@ body:
     id: neurotypes
     attributes:
       label: Which neurotypes does this resource apply to?
-      description: Select all that apply to help with categorization and to sort things nicely.
+      description: |
+        Select all that apply to help with categorization and to sort things nicely.
+
+        List were based off <https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/neurotypes-47> and its suggestion box, linked early on.
       multiple: true
       options:
         - Autism
