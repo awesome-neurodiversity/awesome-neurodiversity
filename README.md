@@ -1,6 +1,6 @@
 # Awesome Neurodiversity
 
-[![Official project banner for Awesome Neurodiversity](./media/banner.png)](https://github.com/Community-Lores/awesome-neurodviersity)
+[![Official project banner for Awesome Neurodiversity](./media/banner.png)](https://github.com/awesome-neurodiversity/awesome-neurodviersity)
 
 <!-- markdownlint-disable MD033 MD010 MD042 MD053 -->
 <div align="center">
@@ -8,7 +8,7 @@
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
-		<sub>Follow Andrei Jiroh on <a href="https://twitter.com/Kuys_Potpot">Twitter</a> or <a href="https://tilde.zone/@ajhalili2006">in the fediverse</a>. Share this project with our Linktree link: <a href="https://linktr.ee/AwesomeND"><code>linktr.ee/AwesomeND</code></a></sub>
+		<sub>Follow Andrei Jiroh on <a href="https://twitter.com/ajhalili2006">Twitter</a> or <a href="https://tilde.zone/@ajhalili2006">in the fediverse</a> to keep updated with project news, also via <a href="https://github.com/awesome-neurodiversity/awesome-neurodiversity/issues/3">this GitHub issue</a>, our <a href="https://plasmatrap.com/@AwesomeND">fediverse account</a> and <a href="https://lists.sr.ht/~ajhalili2006/awesome-neurodiversity-announce">low-volume announcement mailing list at sourcehut</a>. Share this project with our Linktree link: <a href="https://linktr.ee/AwesomeND"><code>linktr.ee/AwesomeND</code></a></sub>
 	</p>
 	<br>
 	<p>
@@ -19,7 +19,7 @@
 
 ## Maintained with ❤️ under [Recap Time Squad](https://recaptime.eu.org)
 
-Under [Community Lores](https://lorebooks.eu.org), our documentation arc for all things documentation projects and even this one, Recap Time Squad is currently where Andrei Jiroh mostly host his open-source projects like this.
+Under [Community Lores](https://lorebooks.eu.org), our documentation arc for all things documentation projects and even this one, Recap Time Squad is currently where Andrei Jiroh mostly host his open-source projects like this. (Technically we moved it on 2023-06-07 as part of behind-the-scenes work to make this project more open.)
 
 **Trivia**: Did you know that Andrei Jiroh founded Recap Time Squad under its former name The Pins Team as a future YouTube channel in 2018, but in its current form is a hub for open source projects, whenever its software or not, among other things.
 
@@ -29,7 +29,7 @@ If you love this project, please star it, or even better, support Andrei Jiroh f
 
 Use "Find in" (shortcut: Ctrl/Cmd + F) feature in your browser to find a resource here.
 
-**Can't find it?** See also resources listed in [the Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/resources-62) and/or file a new issue via [GitHub](https://github.com/Community-Lores/awesome-neurodiversity/issues/new?assignees=ajhalili2006&labels=enhancement%2Cdocumentation&template=suggest-resource.yml).
+**Can't find it?** See also resources listed in [the Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/resources-62) and/or file a new issue via [GitHub](https://github.com/awesome-neurodiversity/awesome-neurodiversity/issues/new?assignees=ajhalili2006&labels=enhancement%2Cdocumentation&template=suggest-resource.yml).
 
 ## Contents
 
@@ -63,8 +63,8 @@ Treat this as your starter pack/basics on the neurodiversity paradigm + movement
 _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](https://github.com/Community-Lores/awesome-neurodiversity/issues/new?assignees=ajhalili2006&labels=enhancement%2Cdocumentation&template=suggest-resource.yml&category=primer-on-neurodiversity) or [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdVmMinRaq8EqxyZ28W3MvHmEYGkMhJVBUz3Ec02VCHN27cxA/viewform?usp=pp_url&entry.1922582234=Neurotypes)_
 
 > :construction: There are way more neurodivergent traits than currently existing neurotypes like [unnamed costellations](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/unnamed-constellations-neurotypes-traits-and-the-future-of-neuro-77). We'll update this list as soon as possible once the community in collaboration with the scientific community named new ones, although just like at PNDSC, we suspect that the future of Neurodiversity is actually a movement away from discrete neurotypes and towards a more deconstructed, trait-oriented taxonomy.
-?
-> While the lead maintainer himself does know a lot about autism and ADHD, we need help in compilng more resources for other neurotypes too.
+>
+> While the lead maintainer himself does know a lot about autism and ADHD , we need help in compilng more resources for other neurotypes too.
 
 ### Autism
 
@@ -78,9 +78,9 @@ _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](htt
 
 * [**So Someone Told You You Might Be Autistic, Huh?**](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/so-someone-told-you-you-might-be-autistic-huh-105) - An essay by [the creator of the Public Neurodiversity Support Center](https://coda.io/@mykola-bilokonsky) in fine tradition of Autistic people getting diagnosed as adults, burning out, and then dedicating their lives to helping others avoid their fate.[^5]
 * [**The Big "You Might Be Autistic If" Twitter thread**](https://twitter.com/mykola/status/1112883937272107008?s=20) - An precussor to the essay mentioned above, although the author also [states](https://twitter.com/mykola/status/1382340935674118147?s=20) that these also overlaps with ADHD.
-* [**@Schnumn#twitter.com's commic on the overlap between Autism and ADHD**](https://twitter.com/schnumn/status/1461777605745651712?s=21) - An comic where the artist addresses questions about why some people think ADHD and autism are part of the same spectrum and why some people disagree. 
+* [**@Schnumn#twitter.com's commic on the overlap between Autism and ADHD**](https://twitter.com/schnumn/status/1461777605745651712?s=21) - An comic where the artist addresses questions about why some people think ADHD and autism are part of the same spectrum and why some people disagree.
 
-[^5]: While autism is usually diagnosed in children (like in the case of @ajhalili2006), most Autistic adults were undiagnosed for decades due to numerous reasons, including stigma and finanical reasons. We don't want to gatekeep self-diagnosed people here, although we believe in quitable access to official diagnosis [(jump to section)](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/so-someone-told-you-you-might-be-autistic-huh-105#_lurDF).
+[^5]: While autism is usually diagnosed in children (like in the case of @ajhalili2006), most Autistic adults were undiagnosed for decades due to numerous reasons, including stigma and finanical reasons. We don't want to gatekeep self-diagnosed people here, although we believe in equitable access to official diagnosis [(jump to section)](https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/so-someone-told-you-you-might-be-autistic-huh-105#_lurDF).
 
 ### ADHD
 
@@ -91,7 +91,7 @@ _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](htt
 > _"ADHD is perhaps the worst named neurotype in existence. Ostensibly “Attention Deficit Hyperactive Disorder”, ADHD can be at least as much about emotional regulation, time blindness and rejection sensitivity as it is about attention. This is fundamentally a difference in the way dopamine is released in the brain. Neurotypical brains receive dopamine for achieving tasks; ADHD brains receive dopamine for satisfying curiosity. This means our motivational systems are fundamentally at odds with everyone else’s, and it explains why our executive function can be so debilitatingly bad."_
 
 * [**How To ADHD YouTube channel**](https://youtube.com/@HowToADHD) - Gives a ton of useful advice to ADHDers (and also other neurodivergent people and allies), and the person who runs the channel has ADHD and has made a lot of really helpful/practical advice on managing the symptoms of ADHD.
-* [**@Schnumn#twitter.com's commic on the overlap between Autism and ADHD**](https://twitter.com/schnumn/status/1461777605745651712?s=21) - An comic where the artist addresses questions about why some people think ADHD and autism are part of the same spectrum and why some people disagree. 
+* [**@Schnumn@twitter.com's commic on the overlap between Autism and ADHD**](https://twitter.com/schnumn/status/1461777605745651712?s=21) - An comic where the artist addresses questions about why some people think ADHD and autism are part of the same spectrum and why some people disagree.
 
 ## The Neurodiversity Community
 
@@ -101,6 +101,9 @@ _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](htt
 * [**#ActuallyAutistic**](https://autism-advocacy.fandom.com/wiki/ActuallyAutistic) - A hashtag used by the Autistic community, originally in [Tumblr](http://www.tumblr.com/tagged/actuallyautistic) ([alternative tag](http://www.tumblr.com/tagged/actually%20autistic))[^3], but also exists in other platforms like Twitter and DeviantArt.
 * **#AskingAutistics** (also [Ask An Autistic](https://autism-advocacy.fandom.com/wiki/Ask_An_Autistic) YouTube series from the Autistic Self Advocacy Network member and autistic advocate Amythest Schaber + its related hashtag, `#AskAnAutistic`) - If you have an burning question about all things autism and neurodiversity (whenever you're neurotypucal/non-autistic, autistic/neurodivergent yourself or an ally), use the hashtag in your posts.
 * [**r/AutismTranslated**](https://reddit.com/r/autismTranslated) - A subredit founded by the creator of Public Neurodiversity Support Center, based on [a Twitter thread](https://twitter.com/mykola/status/1112883937272107008).
+* **Community Reading lists** across Medium, Substack and elsewhere,
+plus YouTube playlists and more. (Also see [our companion list](https://github.com/awesome-neurodiversity/community-reading-lists) too)
+  * [**Neurodiversity x Mental Health**](https://github.com/awesome-neurodiversity/neurodiversity-x-mental-health) - [@ajhalili2006](https://andreijiroh.eu.org)'s personal collection of everything neurodiversity, mental health and its intersections.
 
 [^1]: Some links might be broken (especially domains and pages that are no longer existent), which we may plan to contact the Neuroclastic editiorial team soon about using `web.archive.org` for these links.
 [^2]: Also applies to other neurotypes, especially in things like Person First vs Identity Language, on functioning labels and ABA.
@@ -111,7 +114,7 @@ _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](htt
 
 _[🆙 Go back to contents](#contents) | 📝 Submit a resource via [GitHub](https://github.com/Community-Lores/awesome-neurodiversity/issues/new?assignees=ajhalili2006&labels=enhancement%2Cdocumentation&template=suggest-resource.yml&category=community) or [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdVmMinRaq8EqxyZ28W3MvHmEYGkMhJVBUz3Ec02VCHN27cxA/viewform?usp=pp_url&entry.1922582234=On+non-speakers)_
 
-We use the term "non-speaker" over "non-verbal" because we belive in the use of alternative and augmentative communication (AAC). We'll be working on adding resources to AAC, especially on sign language in the future.
+**Note**: We use the term "non-speaker" over "non-verbal" because we belive in the use of alternative and augmentative communication (AAC). We'll be working on adding resources to AAC, especially on sign language in the future.
 
 * [**On Using NonSpeaking, Minimally Speaking, Or Unreliably Speaking Over “Non-Verbal”: NonSpeakers Weigh In (from Neuroclastic)**](https://neuroclastic.com/on-using-nonspeaking-minimally-speaking-or-unreliably-speaking-over-non-verbal-nonspeakers-weigh-in/) - A different between these terms, especially from non-speaking autistics/NDs.
 
