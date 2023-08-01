@@ -23,7 +23,12 @@ git config sendemail.to "~ajhalili2006/awesome-neurodiversity-devel@lists.sr.ht"
 git config format.signoff true
 ```
 
-### Template
+### How to add directly to the list?
+
+We use Markdown for the list itself before the maintainers
+manually add it to the project's Linktree page.
+
+## Issue Template
 
 ```md
 <!--
@@ -31,8 +36,9 @@ git config format.signoff true
 GitHub user? We do use issue forms instead of painfully editing Markdown files. Go to the GitHub mirror's
 issue tracker, select "New issue" and choose Suggest a resource.
 
-While sourcehut's Markdown renderer doesn't support checkboxes yet, we still need it once we enabled issue tracker mirroring between services in the future.
-To tick a box for starters, just replace [ ] with [X] and vice versa.
+While sourcehut's Markdown renderer doesn't support checkboxes yet, we still need it once we enabled issue tracker mirroring between services in the future. To tick a box for starters, just replace [ ] with [X] and vice versa.
+
+Another way of doing this is through Tally
 
 -->
 
@@ -91,7 +97,7 @@ If chose "None of the above", make sure no other options are ticked.
 -->
 
 - [ ] Discrimination (e.g. homophobia, ableism, etc.)
-- [ ] Discussions around mental health and trauma
+- [ ] Mental health issues and trauma
 - [ ] Abuse (e.g. child/sexual abuse, ABA)
 - [ ] Suicide
 - [ ] Others (note it in additional details)
@@ -102,6 +108,9 @@ If chose "None of the above", make sure no other options are ticked.
 <!--
 
 Select all that apply to help with categorization.
+
+List were based off <https://coda.io/@mykola-bilokonsky/public-neurodiversity-support-center/neurotypes-47> and its suggestion box at <https://coda.io/form/Add-Neurodiversity-Resource_d43-e9BR1p3>.
+
 
 -->
 
